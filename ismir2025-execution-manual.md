@@ -1,1 +1,1 @@
-After the conference, this doc will be updated based on https://docs.google.com/document/d/1Mbq8_n0nprARPA-A07GPAKck3scRH0AsYDqwlOudOxQ/edit?tab=t.0#heading=h.c2vjgvhzlxbh , which was created 8/20 (D-32)
+After the conference, this doc will be updated based on https://docs.google.com/document/d/1Mbq8_n0nprARPA-A07GPAKck3scRH0AsYDqwlOudOxQ/edit?tab=t.0#heading=h.c2vjgvhzlxbh , which was created 8/20 (D-32).

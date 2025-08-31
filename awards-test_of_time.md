@@ -1,5 +1,15 @@
 # **A Guide to Organizing the ISMIR Test of Time Award**
 
+## **0\. The History**
+The ISMIR 2024 Organizers initiated the ToT award, which was awarded to one paper among ISMIR 2000-2004 papers. We (ISMIR 2025 GCs) decided to continue and expand this into two categories:
+
+ - Classical ToT award: From ISMIR 2005-2008 papers
+ - 10-year ToT award: From ISMIR 2015 papers
+
+The number of awards and the structure (awardee, runner-ups, and nominees) was determined after some diecussion among the GCs and the committee.
+
+We anticipate the Classical ToT award can continue at ISMIR 2026 (from 2009-2011 papers) and complete at ISMIR 2027 (from 2012-2014 papers), while the 10-year ToT award to continue in every future ISMIR. This will make every previous ISMIR papers to be considered as a candidate of one of the ToT award. 
+
 ## **1\. Introduction**
 
 This guide provides a recommended timeline and set of best practices for organizing the annual ISMIR Test of Time (ToT) Awards. It is based on the experiences and lessons learned from the ISMIR 2025 organization. The goal is to help future General Chairs (GCs) and Program Chairs (SPCs) run a smooth, fair, and successful award process, building upon the tradition established in previous years.  
