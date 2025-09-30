@@ -6,14 +6,6 @@ The Scientific Program delivers high-quality paper presentations, fostering know
 - Manage paper submissions, reviews, and selections for the main program.
 - Build a balanced schedule of presentations, posters, and awards.
 
-## Chairs' Goal
-Scientific Program Chairs must oversee the review process, select papers, and organize sessions for maximum impact. Their focus is on fairness, efficiency, and integration with other program elements.
-
-- Define CFP and manage submission/review system.
-- Evaluate papers; select for presentation and posters.
-- Coordinate with subcommittees for awards and recognitions.
-- Build program schedule; handle author notifications and logistics.
-
 ## Scope & Responsibilities
 Core duties involve CFP issuance, review management, and program construction to ensure academic quality and diversity. Chairs handle submissions, selections, and sessions while coordinating with other chairs.
 
