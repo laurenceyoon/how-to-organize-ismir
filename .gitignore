@@ -1,0 +1,15 @@
+# Source materials - keep local only
+_source_related_docs/
+_source_slack_data/
+
+# Raw notes - keep local only
+*/_raw_notes.md
+
+# Area index
+areas/
+
+# Excel files with registration data
+*.xlsx
+
+# Other local files
+.gitkeep
