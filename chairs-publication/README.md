@@ -1,116 +1,45 @@
-# Publication Chairs Guide
+# Publication Chairs Guide (grounded in 2025 Slack notes)
 
 ## Goal
-The Publication Program ensures high-quality dissemination of ISMIR research through proceedings, journals, and archives. It maintains academic standards, facilitates access, and preserves conference outputs for long-term impact.
+Maintain accurate author-facing instructions and deliverables logistics. Coordinate poster specs, fun-fact submissions, slide deck assets, and missing-deliverables reminders.
 
-- Manage proceedings, journal publications, and archival processes.
-- Ensure timely, accessible, and high-quality research outputs.
+- Keep the Presenter & Author Instructions page up to date
+- Confirm and communicate poster specifications with organizers
+- Define fun-fact submission policy and formats
+- Nudge authors to complete required uploads before the conference
 
 ## Chairs' Goal
-Publication Chairs must oversee production, coordinate with authors, and ensure compliance with standards. Their focus is on quality control, deadlines, and integration with conference outputs.
+Operate author communications and deliverables workflows with clarity and minimal friction, using the tools and policies agreed in the organizers’ channel.
 
-- Coordinate proceedings production and author submissions.
-- Manage journal integrations and archival processes.
-- Handle copyright, formatting, and distribution.
+- Update the Presenter & Author Instructions website (request repo/source when needed)
+- Confirm poster size/orientation and publish it
+- Set the fun-fact policy (count and format) and announce it
+- Use CMT to find and contact authors with missing files; set a clear deadline
+- Manage access to shared slide deck folders and timelines
 
-## Scope & Responsibilities
-Core duties involve content management, quality assurance, and distribution to ensure professional and accessible publications. Chairs handle submissions, reviews, and logistics while aligning with publisher requirements.
+## This Year’s Choices (2025, from Slack)
+- Presenter & Author Instructions: Request for website repo/source to update the page (ref: 2024 page used as example)
+- Poster size & orientation: A0 portrait (confirmed)
+- Fun facts policy: Ask authors for 1–3 fun facts per paper (discussion converged from older “6–8” spec to 1–3)
+- Missing deliverables: Email via CMT to authors with incomplete uploads; used “<6 supplementary files” as criterion; deadline September 1 (AoE)
+- Slide deck: Google Drive folder access coordinated; internal target to finalize by around September 19 (KST)
 
-- Define submission guidelines and deadlines for proceedings.
-- Coordinate with authors and editors for content preparation.
-- Manage publication processes with publishers or platforms.
-- Ensure copyright compliance and open access where applicable.
-- Oversee archival and indexing for long-term accessibility.
+## Operational Notes (from Slack threads)
+- Website source: Publication team asked for the repo/source to update the Presenter & Author Instructions page
+- Context on fun facts: The older 2024 spec listed 6–8 items and file details; for 2025, organizers aligned on 1–3 items instead
 
-## General Advice vs This Year's Choices
-General advice emphasizes quality, timeliness, and accessibility adaptable to formats, while this year's choices reflect 2025's specific tools and integrations. This separation allows evolution with publishing trends.
-
-- General Advice
-  - Use clear formatting guidelines; enforce deadlines strictly.
-  - Coordinate with publishers early; ensure open access options.
-  - Provide author support for submissions and revisions.
-  - Monitor for plagiarism and ethical issues.
-- This Year's Choices (2025 example)
-  - Format: Standard templates; integrated with conference system.
-  - Process: Author submissions; editorial reviews; publisher coordination.
-  - Distribution: Proceedings and journal integrations.
-
-## Rationale & Consequences
-Rigorous processes ensure high-quality, accessible publications that enhance ISMIR's reputation. Inconsistencies can lead to errors, delays, or accessibility issues.
-
-- Why consistency matters: Ensures professional standards and reliable access for readers.
-- If inconsistent/not done: Publication delays; quality issues; reduced impact.
-- Alternatives: Self-publishing; delayed releases; limited access.
-
-## Topics to Discuss / Decisions to Make
-
-### 1) Publication Format and Guidelines
-- Context: Define standards for quality and consistency.
-- Decision owner(s): Publication Chairs (coordinate with Scientific Program).
-- 2025 decision: Standard templates; digital proceedings.
-- Recommendations: Provide examples; train authors.
-
-### 2) Submission and Review Process
-- Context: Manage volume and ensure quality.
-- Decision owner(s): Publication Chairs.
-- Options: Automated vs manual; pre vs post-conference.
-- 2025 decision: Post-conference submissions; editorial reviews.
-- Pros/Cons: Pre allows early prep; post ensures updates.
-- Recommendations: Set clear timelines; use tools for tracking.
-
-### 3) Archival and Indexing
-- Context: Ensure long-term access and discoverability.
-- Decision owner(s): Publication Chairs (coordinate with Tech Chairs).
-- Options: Institutional repositories vs commercial; immediate vs embargoed.
-- 2025 decision: Immediate access; multiple repositories.
-- Pros/Cons: Immediate increases impact; embargoed protects novelty.
-- Recommendations: Index in major databases; monitor usage.
-
-## Suggested Timeline (assuming October main conference)
-A phased timeline ensures timely production, aligning with paper cycles. Early guidelines allow for preparation, while later phases handle distribution.
-
-- Month -8 to -6 (Feb to Apr)
-  - Define guidelines and templates; coordinate with publishers.
-  - Announce to authors; prepare submission systems.
-- Month -6 to -4 (Apr to Jun)
-  - Collect submissions; conduct reviews and edits.
-  - Finalize content; handle revisions.
-- Month -3 to -2 (Jul to Aug)
-  - Produce proceedings; ensure formatting and indexing.
-  - Prepare distribution channels.
-- Month -1 to 0 (Conference week) (Sep to Oct)
-  - Release proceedings; handle on-site distributions.
-  - Address queries; facilitate access.
-- Post-conference (+1–2 weeks) (Oct to Nov)
-  - Archive fully; collect feedback; update guide.
+## Suggested Timeline (2025-specific)
+- By Sep 1 (AoE)
+  - Send CMT reminder to authors with missing deliverables (based on CMT query/criterion)
+- By ~Sep 19 (KST)
+  - Finalize slide deck assets and access in Google Drive
+- Pre-conference weeks
+  - Update the Presenter & Author Instructions website with poster spec and fun-fact policy
 
 ## Dependencies & Blockers
-Timely author submissions and publisher cooperation are essential, as delays can affect release. Early coordination prevents bottlenecks.
+- CMT access and queries to identify missing uploads
+- Website repository/source for updating Presenter & Author Instructions
+- Shared Google Drive for slide deck assets
 
-- Author submissions (Scientific Program Chairs).
-- Publisher timelines (External partners).
-- Indexing services (Tech Chairs).
-- Budget for production (General Chairs).
-
-## Stakeholders
-Collaboration with key teams ensures high-quality, accessible publications. Regular communication maintains alignment.
-
-- Scientific Program Chairs for paper data and deadlines.
-- General Chairs for budget and policy.
-- Tech Chairs for platforms and indexing.
-- Web & Design for distribution and access.
-- Legal for copyright and compliance.
-
-## Caveats / Pitfalls
-Formatting errors or deadline misses can delay publications or reduce quality. Proactive management ensures smooth processes.
-
-- Author delays; enforce deadlines.
-- Publisher issues; have backups.
-- Accessibility problems; test formats.
-- Ethical violations; monitor submissions.
-
-## Links
-Essential resources include guideline docs for authors and Slack for coordination. These support production and historical reference.
-
-- Related docs: `_source_related_docs/chairs-publication/`
-- Slack: `_source_slack_data/slack (organizers) - chats/chairs-publications/`
+## Links (referenced in Slack)
+- 2024 example page: Presenter and Author Instructions (for reference context)
