@@ -70,8 +70,8 @@ Major decisions for LBD involve balancing efficiency, fairness, and resources, o
 ### 4) Author Deliverables and Media Specs
 - Context: Posters, thumbnails, optional video with captions; accessibility
 - Options: Strict single policy vs flexible ranges; optional vs required video
-- 2025 decision: Poster required; thumbnail required; video optional; spec conflict observed
-- Recommendations: Publish a single spec table; align web/email/system; enforce at upload when possible
+- 2025 decision: Poster required; thumbnail required; video optional; spec conflict observed; **ACL poster size worked well** and is recommended
+- Recommendations: Publish a single spec table; align web/email/system; enforce at upload when possible; **use ACL-recommended poster dimensions** for consistency with other conferences
 
 ### 5) Equipment Requests (Tables/Power)
 - Context: Some demos need tables/power; limited venue drops

@@ -92,6 +92,14 @@ Clear criteria and processes ensure high-quality, relevant tutorials that engage
 - Pros/Cons: Surveys provide data; informal is flexible.
 - Recommendations: Standardize metrics; share with chairs.
 
+### 7) Recording and YouTube Archiving Consent
+- Context: Tutorials have educational value for broader community but require presenter consent.
+- Decision owner(s): Tutorial Chairs (coordinate with Virtual Chairs).
+- Options: Blanket consent vs case-by-case; opt-in vs opt-out; pre-conference vs post-conference consent.
+- 2025 decision: **Asked presenters for YouTube upload consent post-conference; only uploaded with explicit agreement**.
+- Pros/Cons: Post-conference consent is simple but slows archiving; pre-conference consent streamlines process but requires upfront planning.
+- Recommendations: **Obtain recording/sharing consent DURING tutorial proposal/acceptance phase** – include consent checkbox in acceptance form. This is much easier than retroactive requests and allows for earlier archiving. Make clear distinction between "recording for conference access" vs "public YouTube archiving" as some presenters may be comfortable with one but not the other.
+
 ## Suggested Timeline (assuming October main conference)
 A phased timeline ensures timely preparation and execution, aligning with conference planning. Early CFP allows for selection, while later phases focus on logistics.
 

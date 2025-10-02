@@ -35,6 +35,7 @@ General advice emphasizes fair, scalable processes adaptable to submission volum
   - Tools: OpenReview for submissions and reviews; Slack for discussions.
   - Process: Double-blind; meta-reviews; Best Paper and Outstanding Reviewers committees.
   - Schedule: Integrated with tutorials and industry; hybrid considerations.
+  - **Online fun-fact sharing**: Asked for up to 3 fun facts from attendees; worked well and more useful than expected for community building.
 
 ## Rationale & Consequences
 Rigorous processes ensure high-quality content and fair opportunities, maintaining conference reputation. Inconsistencies can lead to biased selections, author dissatisfaction, or program imbalances.

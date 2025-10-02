@@ -31,9 +31,10 @@ General advice emphasizes robust, user-friendly setups adaptable to tech, while 
   - Integrate with in-person for seamless experience.
   - Collect feedback for iterative improvements.
 - This Year's Choices (2025 example)
-  - Platforms: Zoom for sessions; Gather.town for networking.
+  - Platforms: Zoom for sessions; Gather.town for networking; **YouTube for livestreaming oral sessions**.
   - Support: Dedicated help desks; hybrid coordination.
   - Feedback: Post-event surveys; real-time monitoring.
+  - **YouTube livestream benefits**: Attendees late to morning sessions can watch live remotely, then catch up on missed content by rewinding. Very practical and well-received.
 
 ## Rationale & Consequences
 Reliable virtual setups ensure inclusivity and engagement, preventing exclusion of remote participants. Inconsistencies can lead to technical failures or poor experiences.
@@ -54,11 +55,11 @@ Reliable virtual setups ensure inclusivity and engagement, preventing exclusion 
 
 ### 2) Content Streaming and Recording
 - Context: Ensure high-quality delivery and archiving.
-- Decision owner(s): Virtual Chairs (coordinate with Session Chairs).
-- Options: Live only vs recorded; automated vs manual.
-- 2025 decision: Live with recordings; manual moderation.
-- Pros/Cons: Recordings increase access; live builds excitement.
-- Recommendations: Use reliable streams; edit for on-demand.
+- Decision owner(s): Virtual Chairs (coordinate with Session Chairs, Publication Chairs).
+- Options: Live only vs recorded; automated vs manual; streaming platform choice; archiving strategy.
+- 2025 decision: Live with recordings; manual moderation; **YouTube for livestreaming and archiving**.
+- Pros/Cons: Recordings increase access; live builds excitement. **YouTube provides excellent rewind/replay capabilities** for latecomers and persistent archiving.
+- Recommendations: Use reliable streams; edit for on-demand. **Post-conference archiving strategy**: Publish session-level videos (oral sessions, special sessions, keynotes) + separate long talks (high-scoring papers) with proper titles for discoverability. **Critical: obtain consent BEFORE conference for all recordings/uploads** – much easier than retroactive requests.
 
 ### 3) User Support and Accessibility
 - Context: Assist remote users for smooth participation.
@@ -68,7 +69,20 @@ Reliable virtual setups ensure inclusivity and engagement, preventing exclusion 
 - Pros/Cons: Support ensures usability; self-service scales.
 - Recommendations: Provide guides; monitor for issues.
 
-### 4) Integration with In-Person
+### 4) Recording and Sharing Consent (Session-Specific)
+- Context: Different session types have varying consent needs and sensitivities.
+- Decision owner(s): Virtual Chairs (coordinate with relevant session chairs).
+- Options: Blanket consent vs session-specific; opt-in vs opt-out.
+- 2025 experience: **Each session type has different considerations**:
+  - **Tutorials**: Asked presenters for YouTube upload consent post-conference; only upload if they agree.
+  - **Industry sessions**: Industry PRs may not want public sharing; requires careful negotiation.
+  - **Keynotes**: Speaker may or may not want public sharing; discuss during invitation.
+  - **Music program/Rencon**: Performers and rights holders may have concerns; requires explicit consent.
+  - **Main paper sessions**: Generally okay to share publicly (default for academic conferences).
+- Pros/Cons: Session-specific respects varied privacy/commercial needs; blanket simplifies process but risks violations.
+- Recommendations: **Obtain consent BEFORE conference for ALL sessions** – include recording/sharing terms in initial agreements with speakers/presenters. Create consent matrix documenting each session's sharing policy. Default to "no public sharing unless explicitly consented."
+
+### 5) Integration with In-Person
 - Context: Blend virtual and physical for cohesive experience.
 - Decision owner(s): Virtual Chairs (coordinate with Local Org).
 - Options: Parallel streams vs merged; chat vs voice.
@@ -76,7 +90,7 @@ Reliable virtual setups ensure inclusivity and engagement, preventing exclusion 
 - Pros/Cons: Parallel allows flexibility; merged ensures unity.
 - Recommendations: Sync timings; test integrations.
 
-### 5) Networking and Interactions
+### 6) Networking and Interactions
 - Context: Facilitate virtual social connections.
 - Decision owner(s): Virtual Chairs (coordinate with Social Media).
 - Options: Dedicated spaces vs integrated; moderated vs open.

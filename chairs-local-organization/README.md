@@ -34,6 +34,8 @@ General advice emphasizes proactive planning and attendee-centric logistics, ada
   - Logistics: Shuttles from 3 areas; food for 350-450; LED screens and WiFi.
   - Events: Welcome reception, banquet, jam session; awards and gifts.
   - Tools: Checklists; PCO coordination; volunteer assignments.
+  - **KAIST venue benefits**: Fresh air, outdoor spaces, budget savings; **isolated location led to high attendance rate** (fewer distractions compared to city venues like Seoul).
+  - **Unlimited coffee/water/snacks all day**: Very popular and highly appreciated by attendees.
 
 ## Rationale & Consequences
 Detailed planning and coordination prevent disruptions, ensuring attendee satisfaction and safety. Inconsistencies can lead to confusion, delays, or safety issues.
@@ -47,10 +49,10 @@ Detailed planning and coordination prevent disruptions, ensuring attendee satisf
 ### 1) Venue Selection and Setup
 - Context: Choose and configure spaces for sessions and events.
 - Decision owner(s): Local Organization Chairs (coordinate with General Chairs).
-- Options: On-campus vs off-campus; single vs multiple venues.
+- Options: On-campus vs off-campus; single vs multiple venues; urban vs suburban/isolated.
 - 2025 decision: KAIST campus; multiple buildings for sessions.
-- Pros/Cons: On-campus simplifies logistics; off-campus offers amenities.
-- Recommendations: Scout early; test accessibility.
+- Pros/Cons: On-campus simplifies logistics; off-campus offers amenities. **Isolated venues (like KAIST) foster higher attendance and engagement** as attendees stay focused on conference activities rather than exploring city attractions. Fresh air and outdoor spaces enhance experience. Budget savings vs city hotels.
+- Recommendations: Scout early; test accessibility. **Consider venue isolation as attendance strategy** – suburban/campus venues may increase session participation compared to downtown locations.
 
 ### 2) Shuttle and Transportation
 - Context: Ensure easy access for attendees.
@@ -91,6 +93,14 @@ Detailed planning and coordination prevent disruptions, ensuring attendee satisf
 - 2025 decision: WiFi, AV, LED; emergency protocols.
 - Pros/Cons: In-house controls quality; outsourced saves time.
 - Recommendations: Test setups; document procedures.
+
+### 7) Photography and Privacy Consent
+- Context: Balance documentation needs with attendee privacy.
+- Decision owner(s): Local Organization Chairs (coordinate with General Chairs).
+- Options: Opt-in vs opt-out; universal consent vs selective.
+- 2025 decision: **Yellow lanyards for "do not photograph me"** option; photos shared via Google Photos (not perpetual storage).
+- Pros/Cons: Opt-out respects privacy; visual indicators (lanyards) make it easy for photographers. Google Photos best for preview/sharing but not archival.
+- Recommendations: Provide clear visual opt-out mechanism (colored lanyards); communicate storage policy upfront; **note that in 2025 practice, no one seemed to use the yellow lanyards**, but offering the option was appreciated.
 
 ## Suggested Timeline (assuming October main conference)
 A phased timeline ensures comprehensive preparation, aligning with conference buildup. Early venue planning allows for adjustments, while later phases focus on execution.
