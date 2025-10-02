@@ -97,7 +97,6 @@ Professional and accessible web presence enhances user engagement and conference
 - Decision owner(s): Web & Design Chairs (coordinate with Publication, Virtual Chairs).
 - Options: Immediate update vs gradual; complete overhaul vs incremental changes.
 - 2025 experience: Website initially had "stay tuned!" messaging; needs transition to wrap-up mode with awards, videos, photos, proceedings links.
-- Pros/Cons: Quick transition maintains momentum; gradual allows for content preparation. Delayed updates look unprofessional.
 - Recommendations: Plan post-conference content strategy in advance. Prepare templates for: award winners, session videos (YouTube links), photo galleries, final statistics, thank-you messages. Aim to update within 1-2 weeks of conference end. Remove "upcoming" language; replace with "highlights" and "archive" framing.
 
 ## Suggested Timeline (assuming October main conference)
