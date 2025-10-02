@@ -1,45 +1,62 @@
-# Publication Chairs Guide (grounded in 2025 Slack notes)
+# Publication Chairs Guide (grounded in Slack discussions)
 
 ## Goal
-Maintain accurate author-facing instructions and deliverables logistics. Coordinate poster specs, fun-fact submissions, slide deck assets, and missing-deliverables reminders.
+Maintain accurate, author-facing information and deliverables workflows. Coordinate poster specs, fun-fact submissions, reminders for missing assets, and slide deck logistics in sync with session operations.
 
-- Keep the Presenter & Author Instructions page up to date
-- Confirm and communicate poster specifications with organizers
-- Define fun-fact submission policy and formats
-- Nudge authors to complete required uploads before the conference
+- Keep Presenter & Author Instructions current
+- Confirm and publish poster specifications
+- Define and announce fun-fact policy and format
+- Remind authors to complete required uploads via the submission system
+- Coordinate slide deck access and session handoffs with volunteers/session chairs
 
 ## Chairs' Goal
-Operate author communications and deliverables workflows with clarity and minimal friction, using the tools and policies agreed in the organizers’ channel.
+Execute clear communications and lightweight processes that align with what other teams can support on-site and online.
 
-- Update the Presenter & Author Instructions website (request repo/source when needed)
-- Confirm poster size/orientation and publish it
-- Set the fun-fact policy (count and format) and announce it
-- Use CMT to find and contact authors with missing files; set a clear deadline
-- Manage access to shared slide deck folders and timelines
+- Update the Presenter & Author Instructions page (get repo/source early)
+- Publish poster size/orientation once confirmed
+- Set and announce fun-fact policy; coordinate how they are used during orals
+- Query submission system (e.g., CMT) to identify missing deliverables and send reminders
+- Ensure slide deck folder access and session handoff plans are clear (who opens/advances)
 
-## This Year’s Choices (2025, from Slack)
-- Presenter & Author Instructions: Request for website repo/source to update the page (ref: 2024 page used as example)
-- Poster size & orientation: A0 portrait (confirmed)
-- Fun facts policy: Ask authors for 1–3 fun facts per paper (discussion converged from older “6–8” spec to 1–3)
-- Missing deliverables: Email via CMT to authors with incomplete uploads; used “<6 supplementary files” as criterion; deadline September 1 (AoE)
-- Slide deck: Google Drive folder access coordinated; internal target to finalize by around September 19 (KST)
+## Scope & Responsibilities (observed in Slack)
+- Presenter & Author Instructions website updates (request repository/source)
+- Poster specifications: A0 portrait confirmed and communicated
+- Fun facts: policy converged to 1–3 per paper (previous 6–8 spec was not followed)
+- Missing deliverables: email reminders to authors flagged by system queries; clear deadline
+- Slide deck logistics: Google Drive folder access; volunteers/session chairs manage presentation flow on site; publication chairs provide guidance and announcements
+- Presenter identification: if not collected in forms, session chairs/volunteers confirm just before sessions
 
-## Operational Notes (from Slack threads)
-- Website source: Publication team asked for the repo/source to update the Presenter & Author Instructions page
-- Context on fun facts: The older 2024 spec listed 6–8 items and file details; for 2025, organizers aligned on 1–3 items instead
+## Rationale & Consequences
+- Clarity in pre-conference communications reduces on-site friction
+- If omitted: last-minute confusion on poster size, unused fun facts, missing files, and poorly coordinated session handoffs
 
-## Suggested Timeline (2025-specific)
-- By Sep 1 (AoE)
-  - Send CMT reminder to authors with missing deliverables (based on CMT query/criterion)
-- By ~Sep 19 (KST)
-  - Finalize slide deck assets and access in Google Drive
-- Pre-conference weeks
-  - Update the Presenter & Author Instructions website with poster spec and fun-fact policy
+## Suggested Timeline (general, assuming October conference)
+- Month -8 to -6 (Feb to Apr)
+  - Obtain repo/source for Presenter & Author Instructions; prepare initial page structure
+  - Draft fun-fact policy (target 1–3 items) and poster spec section (populate after venue confirmation)
+- Month -6 to -4 (Apr to Jun)
+  - Confirm poster boards with Local Org; publish poster spec (e.g., A0 portrait)
+  - Align with Scientific Program on author deliverables list and where they upload
+- Month -3 to -2 (Jul to Aug)
+  - Run submission-system queries to find missing deliverables; prepare reminder templates
+  - Set up Google Drive slide deck folder structure and access; brief responsible leads
+- Month -1 (Sep)
+  - Send author reminders for missing files with a clear deadline
+  - Finalize Presenter & Author Instructions; announce fun-fact policy and where/how it will be used
+  - Align on session handoff plan: who opens/advances slides (volunteers/session chairs), and what backup the publication team provides
+- Conference Week (Oct)
+  - Support announcements and last-mile clarifications (fun facts usage, slide deck access)
+  - Coordinate with volunteers/session chairs for smooth transitions in orals
+- Post-conference (+1–2 weeks) (Oct to Nov)
+  - Capture corrections to the Presenter & Author Instructions for next year
+  - Debrief on what worked (policy clarity, reminders, handoffs)
 
 ## Dependencies & Blockers
-- CMT access and queries to identify missing uploads
-- Website repository/source for updating Presenter & Author Instructions
-- Shared Google Drive for slide deck assets
+- Submission system access and queries (e.g., CMT)
+- Website repository/source for edits to author instructions
+- Local Org confirmation for poster boards/specs
+- Volunteer/session chair coordination for on-site slide operations
 
-## Links (referenced in Slack)
-- 2024 example page: Presenter and Author Instructions (for reference context)
+## Links (as referenced in Slack)
+- Presenter & Author Instructions (prior year page used as example)
+- Google Drive slide deck folder (shared access coordinated by organizers)
