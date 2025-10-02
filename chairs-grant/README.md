@@ -59,7 +59,7 @@ This section details major decisions, providing context for future chairs. Each 
 
 ### 2) Eligibility Criteria and Weighting
 - **Context**: Define specific criteria (student status, WIMIR categories, country income level, authorship, previous attendance, past grants) and assign weights.
-- **Decision owner(s)**: Grants Chairs (align with DEI Chairs and Board).
+- **Decision owner(s)**: Grants Chairs (optionally coordinate with DEI Chairs and Board for alignment on diversity priorities, though not required in practice).
 - **Options**: Equal weights vs differentiated weights; include/exclude "unaffiliated" status; count previous ISMIR attendance against score.
 - **2025 decision**: 
   - **Eligibility weights** (each +1): Student, Underrepresented in MIR, Low/Middle-Income Country, Queer in MIR, Unaffiliated Researcher, Women in MIR, Accessibility Needs.
@@ -208,7 +208,7 @@ Grants Chairs depend heavily on other teams for success. Budget approval from Ge
 Grants Chairs collaborate with multiple teams to align priorities and execute logistics. Each stakeholder plays a distinct role.
 
 - **General Chairs**: Approve budget, provide strategic direction on DEI priorities, arbitrate policy questions (e.g., whether to include LBD authors).
-- **DEI Chairs**: Align on eligibility criteria for WIMIR categories; coordinate on promoting grants to underrepresented groups.
+- **DEI Chairs** (optional collaboration): Potential alignment on eligibility criteria for WIMIR categories and promoting grants to underrepresented groups. In 2025, the main collaboration was providing waiver codes for WIMIR mentees; broader coordination on grant criteria was not needed but could be beneficial in future years if DEI Chairs have specific inclusivity priorities to integrate.
 - **Registration Chairs**: Generate and manage waiver codes; track which grant recipients have registered; flag issues (e.g., recipient didn't use code).
 - **Local Organization Chairs**: Coordinate hotel room blocks, arrange logistics for accommodation grant recipients, handle special accommodation requests (accessibility needs, dietary restrictions at breakfast).
 - **Scientific Program Chairs**: Determine paper acceptance timeline (which governs author grant deadline); provide list of accepted paper authors for verification.
