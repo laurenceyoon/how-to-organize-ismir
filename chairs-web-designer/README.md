@@ -52,39 +52,7 @@ Professional and accessible web presence enhances user engagement and conference
 - Pros/Cons: Custom allows branding; template is quick.
 - Recommendations: Wireframe early; test with users.
 
-### 2) Content Management and Updates
-- Context: Ensure timely and accurate information.
-- Decision owner(s): Web & Design Chairs (coordinate with Content Providers).
-- Options: CMS vs manual; automated vs manual updates.
-- 2025 decision: CMS for dynamic content; manual for key pages.
-- Pros/Cons: CMS scales; manual ensures control.
-- Recommendations: Schedule updates; use version control.
-
-### 3) Integrations and Tools
-- Context: Connect with conference systems for functionality.
-- Decision owner(s): Web & Design Chairs (coordinate with Tech Chairs).
-- Options: Embedded vs linked; in-house vs third-party.
-- 2025 decision: Embedded integrations; in-house development.
-- Pros/Cons: Embedded seamless; linked reduces complexity.
-- Recommendations: API testing; security audits.
-
-### 4) Accessibility and Usability
-- Context: Ensure inclusivity for all users.
-- Decision owner(s): Web & Design Chairs (coordinate with DEI Chairs).
-- Options: Basic vs comprehensive; automated vs manual checks.
-- 2025 decision: Comprehensive; manual reviews.
-- Pros/Cons: Comprehensive increases reach; basic is cost-effective.
-- Recommendations: Use tools (e.g., WAVE); train team.
-
-### 5) Security and Maintenance
-- Context: Protect user data and site integrity.
-- Decision owner(s): Web & Design Chairs (coordinate with Tech Chairs).
-- Options: HTTPS only vs mixed; regular vs as-needed updates.
-- 2025 decision: HTTPS; regular maintenance.
-- Pros/Cons: Regular prevents issues; as-needed saves time.
-- Recommendations: Monitor for vulnerabilities; backup data.
-
-### 6) Analytics and Improvements
+### 2) Analytics and Improvements
 - Context: Track usage for enhancements.
 - Decision owner(s): Web & Design Chairs.
 - Options: Google Analytics vs custom; real-time vs periodic.
@@ -92,7 +60,7 @@ Professional and accessible web presence enhances user engagement and conference
 - Pros/Cons: Standard tools are reliable; custom provides specificity.
 - Recommendations: Set KPIs; act on insights.
 
-### 7) Post-Conference Website Transition
+### 3) Post-Conference Website Transition
 - Context: Shift website from promotional ("welcome") mode to archival/summary mode after conference.
 - Decision owner(s): Web & Design Chairs (coordinate with Publication, Virtual Chairs).
 - Options: Immediate update vs gradual; complete overhaul vs incremental changes.
