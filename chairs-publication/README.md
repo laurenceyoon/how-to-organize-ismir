@@ -47,9 +47,7 @@ Rigorous processes ensure high-quality, accessible publications that enhance ISM
 ### 1) Publication Format and Guidelines
 - Context: Define standards for quality and consistency.
 - Decision owner(s): Publication Chairs (coordinate with Scientific Program).
-- Options: Standard templates vs flexible; print vs digital.
 - 2025 decision: Standard templates; digital proceedings.
-- Pros/Cons: Standard ensures consistency; flexible allows innovation.
 - Recommendations: Provide examples; train authors.
 
 ### 2) Submission and Review Process
@@ -60,37 +58,13 @@ Rigorous processes ensure high-quality, accessible publications that enhance ISM
 - Pros/Cons: Pre allows early prep; post ensures updates.
 - Recommendations: Set clear timelines; use tools for tracking.
 
-### 3) Publisher and Platform Selection
-- Context: Choose partners for production and distribution.
-- Decision owner(s): Publication Chairs (coordinate with General Chairs).
-- Options: Academic publishers vs self-hosted; open vs closed.
-- 2025 decision: Academic publisher; open access where possible.
-- Pros/Cons: Publishers provide expertise; self-hosted saves costs.
-- Recommendations: Evaluate based on past performance.
-
-### 4) Copyright and Ethics
-- Context: Ensure compliance and ethical standards.
-- Decision owner(s): Publication Chairs (coordinate with Legal).
-- Options: Standard licenses vs custom; strict vs flexible enforcement.
-- 2025 decision: Standard licenses; plagiarism checks.
-- Pros/Cons: Strict ensures integrity; flexible accommodates needs.
-- Recommendations: Educate authors; use detection tools.
-
-### 5) Archival and Indexing
+### 3) Archival and Indexing
 - Context: Ensure long-term access and discoverability.
 - Decision owner(s): Publication Chairs (coordinate with Tech Chairs).
 - Options: Institutional repositories vs commercial; immediate vs embargoed.
 - 2025 decision: Immediate access; multiple repositories.
 - Pros/Cons: Immediate increases impact; embargoed protects novelty.
 - Recommendations: Index in major databases; monitor usage.
-
-### 6) Integration and Distribution
-- Context: Coordinate with conference outputs.
-- Decision owner(s): Publication Chairs (coordinate with Web & Design).
-- Options: Bundled vs separate; online vs physical.
-- 2025 decision: Bundled digital; online distribution.
-- Pros/Cons: Bundled simplifies access; separate allows specialization.
-- Recommendations: Provide multiple formats; track downloads.
 
 ## Suggested Timeline (assuming October main conference)
 A phased timeline ensures timely production, aligning with paper cycles. Early guidelines allow for preparation, while later phases handle distribution.
