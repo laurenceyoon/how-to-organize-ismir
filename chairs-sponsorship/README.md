@@ -76,22 +76,6 @@ Clear benefits and communications ensure sponsor satisfaction and repeat partici
 - Pros/Cons: Email is efficient; in-person builds rapport.
 - Recommendations: Schedule check-ins; act on feedback.
 
-### 5) Measurement and Reporting
-- Context: Evaluate success for future improvements.
-- Decision owner(s): Sponsorship Chairs (coordinate with General Chairs).
-- Options: Financial metrics vs qualitative; internal vs public.
-- 2025 decision: ROI tracking; internal reports.
-- Pros/Cons: Financial is quantifiable; qualitative provides insights.
-- Recommendations: Set KPIs; share aggregated data.
-
-### 6) Risk Management and Compliance
-- Context: Handle disputes and ensure ethical practices.
-- Decision owner(s): Sponsorship Chairs (coordinate with Legal/GCs).
-- Options: Contract-based vs flexible; proactive vs reactive.
-- 2025 decision: Contract-based; proactive communications.
-- Pros/Cons: Contracts provide clarity; flexible allows adaptation.
-- Recommendations: Include clauses for changes; document all interactions.
-
 ## Suggested Timeline (assuming October main conference)
 A phased timeline ensures timely recruitment and delivery, aligning with budget cycles. Early planning allows for outreach, while later phases handle execution.
 
