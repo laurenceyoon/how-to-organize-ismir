@@ -96,9 +96,9 @@ Professional and accessible web presence enhances user engagement and conference
 - Context: Shift website from promotional ("welcome") mode to archival/summary mode after conference.
 - Decision owner(s): Web & Design Chairs (coordinate with Publication, Virtual Chairs).
 - Options: Immediate update vs gradual; complete overhaul vs incremental changes.
-- 2025 experience: Website initially had "stay tuned!" messaging; **needs transition to wrap-up mode** with awards, videos, photos, proceedings links.
+- 2025 experience: Website initially had "stay tuned!" messaging; needs transition to wrap-up mode with awards, videos, photos, proceedings links.
 - Pros/Cons: Quick transition maintains momentum; gradual allows for content preparation. Delayed updates look unprofessional.
-- Recommendations: **Plan post-conference content strategy in advance**. Prepare templates for: award winners, session videos (YouTube links), photo galleries, final statistics, thank-you messages. Aim to update within 1-2 weeks of conference end. Remove "upcoming" language; replace with "highlights" and "archive" framing.
+- Recommendations: Plan post-conference content strategy in advance. Prepare templates for: award winners, session videos (YouTube links), photo galleries, final statistics, thank-you messages. Aim to update within 1-2 weeks of conference end. Remove "upcoming" language; replace with "highlights" and "archive" framing.
 
 ## Suggested Timeline (assuming October main conference)
 A phased timeline ensures site readiness, aligning with content needs. Early design allows for iterations, while later phases focus on maintenance.
@@ -116,7 +116,7 @@ A phased timeline ensures site readiness, aligning with content needs. Early des
   - Manage live updates; handle queries.
   - Monitor site; provide support.
 - Post-conference (+1–2 weeks) (Oct to Nov)
-  - **Transition website to wrap-up/archive mode**: Update homepage from "welcome" to "highlights"; add award winners, session videos, photo gallery links, proceedings.
+  - Transition website to wrap-up/archive mode: Update homepage from "welcome" to "highlights"; add award winners, session videos, photo gallery links, proceedings.
   - Remove "stay tuned" language; add thank-you messages and statistics.
   - Archive content; collect feedback; debrief.
 
