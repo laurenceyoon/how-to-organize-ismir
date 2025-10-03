@@ -1,46 +1,50 @@
 # Volunteer Chairs Guide
 
 ## Goal
-The Volunteer Program mobilizes community members to support conference operations, ensuring smooth execution while providing valuable experiences and benefits. It fosters engagement, reduces costs, and builds a supportive network for ISMIR events.
+The Volunteer Program mobilizes community members to support conference operations, ensuring smooth execution while providing meaningful experiences and benefits. It fosters engagement, reduces operational costs, and builds a supportive network for ISMIR events.
 
 - Recruit and manage volunteers for various conference roles to assist with operations.
-- Provide training, benefits, and acknowledgment to enhance volunteer satisfaction and retention.
+- Provide guidance, support, benefits, and recognition to promote active participation and ensure a positive and balanced conference experience.
 
 ## Chairs' Goal
-Volunteer Chairs must efficiently recruit, train, and assign volunteers to maximize contributions while ensuring fairness and inclusivity. Their focus is on matching skills, managing logistics, and delivering a positive volunteer experience.
+Volunteer Chairs are responsible for recruiting, guiding, and coordinating volunteers to maximize their contributions while maintaining fairness, inclusivity, and engagement. Their focus is on matching skills, managing logistics, and fostering a positive and rewarding volunteer experience.
 
-- Recruit volunteers via calls and selections; assign roles and shifts.
-- Provide training, manuals, and support for effective performance.
-- Manage benefits, communications, and on-site coordination.
+- Recruit volunteers through open calls and selection processes.
+- Assign roles and shifts based on conference needs.
+- Provide guidance, manuals, and ongoing support to ensure effective performance in each role.
+- Manage volunteer benefits, communication, and on-site coordination.
 
 ## Scope & Responsibilities
-Core duties involve recruitment, training, and event support to ensure volunteers are prepared and valued. Chairs handle applications, assignments, and feedback while coordinating with session chairs.
+Core duties include recruitment, guidance, and operational support to ensure volunteers are prepared, engaged, and appreciated. Chairs manage applications, assignments, and communication while coordinating closely with session chairs.
 
-- Define volunteer roles, requirements, and benefits; publish calls and manage applications.
-- Select and assign volunteers; provide training and task manuals.
+- Define volunteer roles, requirements, and benefits
+- Announce calls and manage applications.
+- Select and assign volunteers.
+- Provide guidance and task manuals for volunteers.
 - Coordinate shifts, logistics, and on-site support.
-- Handle benefits (registration, accommodation); acknowledge contributions.
+- Manage volunteer benefits (e.g., registration, accommodation) and acknowledge contributions.
 - Collect feedback and report on volunteer impact.
 
-## General Advice vs This Year's Choices
-General advice promotes fair, efficient recruitment adaptable to conference scale, while this year's choices reflect 2025's specific roles and benefits. This separation allows adaptation to varying needs and resources.
+## General Advice and This Year’s Implementation
+General advice outlines fair and efficient recruitment practices adaptable to conferences of any scale, while this year’s implementation reflects specific roles and benefits for volunteers in ISMIR 2025. This distinction supports flexibility across different needs and resources.
 
 - General Advice
-  - Use clear role descriptions and requirements to attract suitable volunteers.
-  - Provide detailed manuals and training; assign one-day shifts for flexibility.
-  - Offer benefits like registration waivers and accommodations to incentivize.
-  - Promote inclusivity; collect feedback for improvements.
-- This Year's Choices (2025 example)
-  - Roles: Oral/Poster support, Transportation, Registration, General.
-  - Benefits: Free registration, limited accommodation; acknowledgment on website.
-  - Application: Form by Jul 11; notification by Jul 18; in-person required.
+  - Use clear role descriptions and requirements to attract suitable volunteers.  
+  - Provide detailed manuals and guidance; assign within-day shifts for flexibility.  
+  - Offer benefits such as registration waivers or accommodations to encourage participation.  
+  - Promote inclusivity and collect feedback for continuous improvement.  
+- This Year’s Implementation (2025 Example)
+  - Roles: Oral/poster support, transportation, registration, general assistance.  
+  - Benefits: Free registration; acknowledgment on the website.  
+  - Eligibility: In-person participation required (except for virtual volunteers).  
+  - Application: Form due July 11; notification by July 18.
 
 ## Rationale & Consequences
-Clear processes and benefits ensure high volunteer satisfaction and reliability, preventing shortages or mismatches. Inconsistencies can lead to understaffing, volunteer dissatisfaction, or operational issues.
+Clear processes and benefits ensure high volunteer satisfaction and reliability, preventing shortages or mismatches. Inconsistencies may lead to understaffing, volunteer dissatisfaction, or operational issues.
 
-- Why consistency matters: Ensures fair selection and clear expectations for volunteers.
-- If inconsistent/not done: Low recruitment; poor performance; increased chair workload.
-- Alternatives: Virtual volunteers; paid staff; automated tools for assignments.
+- Why consistency matters: Ensures fair selection and clear expectations for volunteers.  
+- If inconsistent or not done: Low recruitment; poor performance; increased chair workload.
+- Alternatives: Paid staff; automated tools for task assignments.
 
 ## Topics to Discuss / Decisions to Make
 
@@ -64,7 +68,7 @@ Clear processes and benefits ensure high volunteer satisfaction and reliability,
 - Context: Ensure volunteers are prepared for roles.
 - Decision owner(s): Volunteer Chairs (coordinate with Session Chairs).
 - Options: In-person training vs manuals; comprehensive vs concise.
-- 2025 decision: Detailed manuals; arrive 20min early; attentive guidelines.
+- 2025 decision: Detailed manuals; arrive on-site 20min early; attentive guidelines; consistent and active guidance during the conference.
 - Pros/Cons: Manuals are scalable; training builds skills.
 - Recommendations: Provide checklists; test with pilots.
 
@@ -82,7 +86,7 @@ Clear processes and benefits ensure high volunteer satisfaction and reliability,
 - Options: One-day vs multi-day; fixed vs flexible.
 - 2025 decision: One-day shifts; in-person required.
 - Pros/Cons: One-day reduces commitment; multi-day provides continuity.
-- Recommendations: Use preferences; avoid overloads.
+- Recommendations: Use preferences; avoid overloads; give flexibility.
 
 ### 6) Feedback and Improvements
 - Context: Assess volunteer experience for future enhancements.
@@ -113,16 +117,17 @@ A phased timeline ensures timely recruitment and preparation, aligning with conf
 ## Dependencies & Blockers
 Timely role definitions and session schedules are crucial, as delays can affect assignments. Early coordination prevents shortages.
 
-- Role needs from Session Chairs and Local Org.
-- Application tools (Web & Design).
-- Benefit budgets (General Chairs).
-- Training resources (Volunteers).
+- Role Definitions (Session Chairs and Local Org)
+- Application Tools (Web & Design)
+- Benefit Budgets (General Chairs)
+- Volunteering Resources (Volunteer Chairs)
+- Volunteer Confirmation, Registration, and Availability (Volunteers)
 
 ## Stakeholders
 Collaboration with key teams ensures effective volunteer management and support, enhancing overall operations. Regular communication maintains alignment.
 
 - General Chairs for budget and policy.
-- Local Organization for logistics and on-site needs.
+- Local Organizers for logistics and on-site needs.
 - Session Chairs for role-specific requirements.
 - Web & Design for application forms and promotions.
 - Social Media for recruitment announcements.
@@ -131,8 +136,8 @@ Collaboration with key teams ensures effective volunteer management and support,
 Unclear roles or poor support can lead to volunteer dissatisfaction or shortages. Proactive management ensures smooth operations.
 
 - Low recruitment; promote widely.
-- Mismatched assignments; use preferences and feedback.
-- On-site issues; provide clear instructions.
+- Mismatched assignments; use preferences and feedback, rearrange if possible.
+- On-site issues; provide clear instructions and on-site support.
 - Benefit disputes; clarify policies early.
 
 ## Links
