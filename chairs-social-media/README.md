@@ -26,12 +26,13 @@ Core duties involve content creation, platform management, and stakeholder coord
 General advice focuses on consistent, engaging strategies adaptable to platforms, while this year's choices reflect 2025's specific tools and integrations. This separation allows flexibility for evolving social media landscapes.
 
 - General Advice
-  - Use a mix of platforms (e.g., Twitter, LinkedIn) for broad reach.
+  - Use a mix of platforms (e.g., Twitter, LinkedIn, Instagram, Facebook) for broad reach.
   - Schedule posts for key deadlines and events; include visuals and hashtags.
   - Collect sponsor handles early for seamless integrations.
   - Monitor analytics and adjust based on engagement.
 - This Year's Choices (2025 example)
-  - Platforms: Twitter, LinkedIn; collected sponsor handles for 4 platforms.
+  - Platforms: Twitter, LinkedIn, Instagram, Facebook; collected sponsor handles for 4 platforms.
+  - Design: Make the content image template in 4:3 ratio, which is compatible with all 4 platforms.
   - Content: Post uploads in sponsor order; account permission management.
   - Integrations: Sponsor promotions; event announcements.
 
@@ -48,7 +49,8 @@ Consistent and timely promotions build anticipation and community, ensuring high
 - Context: Choose platforms that reach the target audience effectively.
 - Decision owner(s): Social Media Chairs (coordinate with Web & Design).
 - Options: Multi-platform vs focused; organic vs paid.
-- 2025 decision: Twitter and LinkedIn; organic posts with sponsor integrations.
+- 2025 decision: Twitter, LinkedIn, Instagram, Facebook; organic posts with sponsor integrations.
+- For Twitter, Basic plan subscription is required for post edit & longer text.
 - Pros/Cons: Multi-platform increases reach; focused simplifies management.
 - Recommendations: Survey audience preferences; test new platforms.
 
