@@ -25,8 +25,13 @@ General advice emphasizes fair, scalable processes adaptable to submission volum
   - Coordinate early with subcommittees for awards.
   - Integrate with overall schedule for smooth flow.
 - This Year's Choices (2025 example)
-  - Tools: CMT for submissions and reviews; Slack for discussions.
+  - Tools: OpenReview for submissions and reviews; Slack for discussions.
   - Process: Double-blind; meta-reviews; Best Paper and Outstanding Reviewers committees. Opt-out author only for open reviews.
+  - Schedule: Integrated with tutorials and industry; hybrid considerations.
+  - Online fun-fact sharing: Asked for up to 3 fun facts from attendees; worked well and more useful than expected for community building.
+
+## Rationale & Consequences
+Rigorous processes ensure high-quality content and fair opportunities, maintaining conference reputation. Inconsistencies can lead to biased selections, author dissatisfaction, or program imbalances.
 
 
 ## Topics to Discuss / Decisions to Make

@@ -68,15 +68,7 @@ Consistent and timely promotions build anticipation and community, ensuring high
 - Pros/Cons: Integrations add value; mismanagement risks security.
 - Recommendations: Secure permissions early; use shared docs for handles.
 
-### 4) Engagement and Analytics
-- Context: Measure success and adapt strategies.
-- Decision owner(s): Social Media Chairs.
-- Options: Basic metrics vs detailed; real-time vs post-event.
-- 2025 decision: Basic tracking; post-event reports.
-- Pros/Cons: Detailed provides insights; basic is sufficient for small teams.
-- Recommendations: Set KPIs; share reports with chairs.
-
-### 5) Crisis and Moderation
+### 4) Crisis and Moderation
 - Context: Handle misinformation or negative interactions.
 - Decision owner(s): Social Media Chairs (coordinate with General Chairs).
 - Options: Proactive monitoring vs reactive; automated vs human.
@@ -84,7 +76,7 @@ Consistent and timely promotions build anticipation and community, ensuring high
 - Pros/Cons: Proactive prevents issues; reactive is resource-efficient.
 - Recommendations: Develop response protocols; train on tools.
 
-### 6) Collaboration with Other Areas
+### 5) Collaboration with Other Areas
 - Context: Integrate promotions across chairs for cohesion.
 - Decision owner(s): Social Media Chairs (coordinate with Industry, Music, etc.).
 - Options: Centralized vs decentralized; scheduled vs ad-hoc.

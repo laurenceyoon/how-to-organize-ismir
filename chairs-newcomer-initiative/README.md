@@ -46,11 +46,11 @@ Clear structures and promotions ensure high participation and satisfaction, prev
 
 ### 1) Program Formats and Pairing
 - Context: Balance simplicity with effectiveness for newcomer support.
-- Decision owner(s): Newcomer Chairs (coordinate with DEI Chairs).
-- Options: Random pairings vs preference-based; group vs one-on-one.
-- 2025 decision: Preference-based squads; mixed group activities.
-- Pros/Cons: Preferences increase satisfaction; random promotes diversity.
-- Recommendations: Pilot pairing algorithms; survey for preferences.
+- Decision owner(s): Newcomer Chairs (coordinate with DEI Chairs, Local Org).
+- Options: Random pairings vs preference-based; group vs one-on-one; facilitated meals vs self-organized.
+- 2025 decision: Preference-based squads; mixed group activities; free lunch provided for squads made gathering easy and natural.
+- Pros/Cons: Preferences increase satisfaction; random promotes diversity. Free meals as gathering catalyst worked very well – lowered barrier for group activities and encouraged organic bonding.
+- Recommendations: Pilot pairing algorithms; survey for preferences. Coordinate with Local Org to provide free lunch for newcomer squads – this simple provision significantly enhances squad effectiveness by creating natural, low-pressure gathering opportunities.
 
 ### 2) Mentor Recruitment and Training
 - Context: Ensure mentors are prepared and committed.
